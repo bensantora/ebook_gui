@@ -43,6 +43,8 @@ First line of a file = the chapter title
 ```
 (also `new`, `rename`, `move`, `delete`, `info`, `setinfo`)
 
+More Linux tools and write-ups by Ben Santora: [truelinux.pages.dev](https://truelinux.pages.dev/)
+
 ## License
 
 MIT - see [LICENSE](LICENSE).
